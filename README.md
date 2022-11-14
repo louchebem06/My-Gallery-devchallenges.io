@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://jolcwij.cluster029.hosting.ovh.net/devchallenge.io/gallery/my-gallery.html">
+    <a href="https://gallery.bryanledda.fr/">
       Demo
     </a>
     <span> | </span>
